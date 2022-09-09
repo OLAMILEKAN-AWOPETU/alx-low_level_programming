@@ -4,7 +4,7 @@
 
 /**
  *
- *Main - Printing
+ *main - Printing
  *
  *Return: Always 0 (Success)
  */
